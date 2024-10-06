@@ -1,3 +1,3 @@
 Ten plik wyświetla napis "podyplomowe"
 
-![img.png](img.png)
+![img_1.png](img_1.png)
